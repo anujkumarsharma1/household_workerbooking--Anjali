@@ -1,6 +1,6 @@
-# Clone of Urban Company Clone
+# House Worker Booking 
 
-Cloning of Urban Company website. We are a team of 3. We have tried to create a clone of a well known on demand service provider call Urban Company. For more details <a href="https://urban-company-clone.netlify.app/">Click here</a>
+ house worker booking website. We are a team of 1from IIT madras Bs data science. We have tried to create a clone of a well known on demand service provider call Urban Company. this will help people to book thier service from sitting in thier comfort zone .For more details <a href="https://urban-company-clone.netlify.app/">Click here</a>
 
 # Home Page
 
@@ -15,14 +15,14 @@ Cloning of Urban Company website. We are a team of 3. We have tried to create a 
 <a href="#"><img width="100%" height="auto" src="./public/Images/Service_booking.png" height="175px"/></a>
 
 # About the website.
-Urban Company is an Indian gig marketplace that offers home installation, maintenance and repair services, and home beauty and wellness services. We have focused on the AC services section.
+ our website for the submission of project hep the Urban Company . it is an Indian gig marketplace that offers home installation, maintenance and repair services, and home beauty and wellness services. We have focused on the AC services section.
 
 
 # Project
 **We tried to implement a few of these pages**
-* Home/Index Page - Aleem Alam
-* AC Service Page - Jagrati Panchal
-* All the service booking models - Mangesh Landge
+* Home/Index Page - Anjali Kumari Sharma 
+* AC Service Page - Anjali Sharma 
+* All the service booking models - anuj(small brother)
 
 ### Libraries used
 
